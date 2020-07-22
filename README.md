@@ -27,7 +27,7 @@ d := NewDocument().
         }),
     )
 
-ioutil.WriteFile("readme.md", []byte(d.String()), 0644)
+ioutil.WriteFile("README.md", []byte(d.String()), 0644)
 ```
 
 ### Links
