@@ -26,6 +26,8 @@ d := NewDocument().
             Image: "/image.png",
         }),
     )
+
+ioutil.WriteFile("readme.md", []byte(d.String()), 0644)
 ```
 
 ### Links
