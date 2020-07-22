@@ -2,6 +2,11 @@
 
 Generate markdown programmatically
 
+[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://godoc.org/github.com/muesli/marky)
+[![Build Status](https://github.com/muesli/marky/workflows/build/badge.svg)](https://github.com/muesli/marky/actions)
+[![Coverage Status](https://coveralls.io/repos/github/muesli/marky/badge.svg?branch=master)](https://coveralls.io/github/muesli/marky?branch=master)
+[![Go ReportCard](http://goreportcard.com/badge/muesli/marky)](http://goreportcard.com/report/muesli/marky)
+
 ## Usage
 
 ```go
